@@ -1,0 +1,6 @@
+{
+  "name": "Smart Rajshahi",
+  "description": "স্মার্ট রাজশাহী - সকল নাগরিক ও জরুরি সেবা এক প্ল্যাটফর্মে। Smart city directory, emergency contacts, real-time sync, and Gemini voice assistant for Rajshahi Division & District.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

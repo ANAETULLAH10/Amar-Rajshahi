@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Smart Rajshahi</string>
+    <string name="app_name_bn">স্মার্ট রাজশাহী</string>
+    <string name="app_tagline">সকল সেবা এক প্ল্যাটফর্মে</string>
+    <string name="search_placeholder">আপনি কী সেবা খুঁজছেন?</string>
+    <string name="emergency_services">জরুরি সেবা</string>
+    <string name="emergency_desc">দ্রুত সহায়তা পেতে প্রতীকে ক্লিক করুন</string>
+    <string name="popular_services">জনপ্রিয় সেবা</string>
+    <string name="view_all_services">সব সেবা দেখুন</string>
+    <string name="all_categories">সকল বিভাগ</string>
+    <string name="view_all_categories">বিভাগগুলো দেখুন</string>
+    <string name="promo_title">এক ক্লিকে সকল সেবা। রাজশাহী এখন আরও কাছে</string>
+    <string name="promo_button">স্মার্ট হতে সাথে থাকুন</string>
+    <string name="nav_home">হোম</string>
+    <string name="nav_services">সেবা</string>
+    <string name="nav_add_service">সেবা যোগ করুন</string>
+    <string name="nav_saved">সংরক্ষিত</string>
+    <string name="nav_profile">প্রোফাইল</string>
+    <string name="ai_voice_assistant">স্মার্ট ভয়েস সহকারী</string>
+    <string name="online_status_synced">ক্লাউড সিঙ্ক সক্রিয়</string>
+    <string name="offline_mode">অফলাইন মোড</string>
+</resources>
